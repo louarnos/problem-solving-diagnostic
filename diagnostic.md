@@ -20,6 +20,8 @@ Place your code within the following code block:
   // code in here
 ```
 
+> _From [codewars.com](http://www.codewars.com/)_
+
 ## Question 2
 
 Write a function that will solve a 9x9 Sudoku puzzle. The function will take
@@ -63,6 +65,8 @@ Place your code within the following code block:
   //code in here
 ```
 
+> _From [codewars.com](http://www.codewars.com/)_
+
 ## Question 3
 
 Extend the String object to create a function that converts the value of the
@@ -83,6 +87,8 @@ Place your code within the following code block:
 ```javascript
   // code in here
 ```
+
+> _From [codewars.com](http://www.codewars.com/)_
 
 ## Question 4
 
