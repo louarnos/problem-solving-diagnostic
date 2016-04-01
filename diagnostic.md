@@ -60,3 +60,32 @@ Place your code within the following code block:
 ```javascript
   //code in here
 ```
+
+# Question 3
+
+Extend the String object to create a function that converts the value of the
+String to and from Base64 using the ASCII character set.
+
+Example:
+
+```javascript
+// should return 'dGhpcyBpcyBhIHN0cmluZyEh'
+'this is a string!!'.toBase64();
+
+// should return 'this is a string!!'
+'dGhpcyBpcyBhIHN0cmluZyEh'.fromBase64();
+```
+
+Place your code within the following code block:
+
+```javascript
+  //code in here
+```
+
+# Question 4
+
+<!-- Thanks for reading the diagnostic in its entirety.  If you're reading this
+happy April Fool's Day.  Delete this entire file and write a short explanation
+of why it's important to read things carefully and in their entirety.
+
+Bonus: Tell me how upset you are with me becuase you had to do this -->
