@@ -142,9 +142,12 @@ Given this understanding of how hex codes are generated, please build a JavaScri
 ```
 
 
-<!-- Thanks for reading the
-diagnostic in its entirety.  If you're reading this,
+<!--
+Thanks for reading the diagnostic in its entirety.  If you're reading this,
 happy April Fool's Day.  Delete this entire file and write a short explanation
 of why it's important to read things carefully and in their entirety.
 
-Bonus: Tell me how upset you are with me becuase you had to do this -->
+Bonus: Tell me how upset you are with me becuase you had to do this
+
+Shhhh, don't tell your classmates...
+ -->
