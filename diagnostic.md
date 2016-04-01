@@ -84,7 +84,16 @@ Place your code within the following code block:
 
 # Question 4
 
-<!-- Thanks for reading the diagnostic in its entirety.  If you're reading this
+Explain the benifits and drawbacks of prefix / post fix notation using the Lisp
+and Forth we have gone over thus far. Give an example of both.
+
+```bash
+
+```
+
+
+<!-- Thanks for reading the
+diagnostic in its entirety.  If you're reading this
 happy April Fool's Day.  Delete this entire file and write a short explanation
 of why it's important to read things carefully and in their entirety.
 
