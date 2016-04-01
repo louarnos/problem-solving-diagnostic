@@ -1,21 +1,23 @@
 # Problem Solving Diagnostic
 
+Directions: Please the diagnostic in its entirety before beginning. There may be information throughout that will help you to complete this successfully.
+
 ## Question 1
 
-Write a biggestNum function so that given an array of numbers >= 0, will
+Write a `biggestNum` function so that given an array of numbers >= 0, will
 arrange them such that they form the biggest number.
 
 Example:
 
 ```javascript
-biggest([1, 2, 3]) === '321'
-biggest([3, 30, 34, 5, 9]) === '9534330'
+biggestNum([1, 2, 3]) === '321'
+biggestNum([3, 30, 34, 5, 9]) === '9534330'
 ```
 
 Place your code within the following code block:
 
 ```javascript
-  //code in here
+  // code in here
 ```
 
 ## Question 2
@@ -61,10 +63,40 @@ Place your code within the following code block:
   //code in here
 ```
 
-## Question
+## Question 3
+
+Extend the String object to create a function that converts the value of the
+String to and from Base64 using the ASCII character set.
+
+Example:
+
+```javascript
+// should return 'dGhpcyBpcyBhIHN0cmluZyEh'
+'this is a string!!'.toBase64();
+
+// should return 'this is a string!!'
+'dGhpcyBpcyBhIHN0cmluZyEh'.fromBase64();
+```
+
+Place your code within the following code block:
+
+```javascript
+  // code in here
+```
+
+## Question 4
+
+Explain the benefits and drawbacks of prefix / post fix notation using the Lisp
+and Forth we have gone over thus far. Give an example of both.
+
+```bash
+
+```
+
+## Question 5
 
 Given the following markup, how would you go about using CSS to style
-`div`s 1-3 into a simple emoticon conveying your comfort with CSS
+`div`s 1-3 into a simple emoticon conveying your comfort with positioning in CSS
 (e.g. `-_-` or `= ]`)?
 
 ```html
@@ -85,4 +117,28 @@ Given the following markup, how would you go about using CSS to style
 <!-- Your CSS here -->
 ```
 
-## Question
+## Question 6
+
+Please read the following:
+
+> There are 256 possible shades each of red, green and blue (0 through 255). If we wanted to produce white (the brightest levels of all three colors combined), we’d need to write #255255255. That’s nine digits long.
+
+> Hex codes use the hexadecimal number system to make it possible for 256 numbers to be represented with only two digits. Instead of counting 0 through 10 like our regular decimal number system, it counts 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F and then 10, followed by 11, 12, 13, 14, 15, 16, 17, 18, 19, 1A, 1B, 1C, 1D, 1E, 1F and then 20. Make sense?
+
+> This means that 256 numbers can be represented using only two digits, instead of the 100 that are possible with our decimal number system (0 through 99). So the highest possible two digit number is not 99 but FF (equal to 255). This is why white is #FFFFFF, pure red is #FF0000, pure green #00FF00 and pure blue #0000FF.
+
+> _From [codeconquest.com](http://www.codeconquest.com/hex-color-codes/)_
+
+Given this understanding of how hex codes are generated, please build a JavaScript function that takes a hex code as an argument and returns complimentary colors of the given color from the color wheel in the form of their hex codes.
+
+```javascript
+// your code here
+```
+
+
+<!-- Thanks for reading the
+diagnostic in its entirety.  If you're reading this,
+happy April Fool's Day.  Delete this entire file and write a short explanation
+of why it's important to read things carefully and in their entirety.
+
+Bonus: Tell me how upset you are with me becuase you had to do this -->
