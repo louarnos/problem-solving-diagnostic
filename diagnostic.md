@@ -60,3 +60,29 @@ Place your code within the following code block:
 ```javascript
   //code in here
 ```
+
+## Question
+
+Given the following markup, how would you go about using CSS to style
+`div`s 1-3 into a simple emoticon conveying your comfort with CSS
+(e.g. `-_-` or `= ]`)?
+
+```html
+<body>
+  <div class="first">
+
+  </div>
+  <div class="second">
+
+  </div>
+  <div class="third">
+
+  </div>
+</body>
+```
+
+```CSS
+<!-- Your CSS here -->
+```
+
+## Question
